@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AdventureWorksDW2012">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DEVDASC;Initial Catalog=AdventureWorksDW2012</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source AdventureWorksDW2012</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>90940316-e710-41c4-bb9b-35c1d15f430f</DataSourceID>
+</RptDataSource>
